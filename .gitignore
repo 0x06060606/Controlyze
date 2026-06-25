@@ -31,7 +31,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-.env*
 
 # vercel
 .vercel
@@ -49,3 +48,4 @@ docker-SchroStack.yml
 
 # drizzle
 # /drizzle/  # Commented out - we need to commit migrations for Docker builds
+config.bat
